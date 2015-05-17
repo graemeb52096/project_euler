@@ -1,4 +1,5 @@
 __author__ = 'BatesG1996'
+
 def get_multiples_of(multiple, max):
     """
     :param multiple: number

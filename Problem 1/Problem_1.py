@@ -1,4 +1,5 @@
 __author__ = 'BatesG1996'
+
 import Problem_1_helpers as p1
 def solve_problem_1():
     max = 1000
