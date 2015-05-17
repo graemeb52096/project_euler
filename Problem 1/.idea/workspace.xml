@@ -21,11 +21,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="Problem_1_helpers.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Problem_1_helpers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Problem_1.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Problem_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1891892">
-              <caret line="39" column="7" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.033783782">
+              <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -33,10 +43,18 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Problem_1" />
+        <option value="$PROJECT_DIR$/Problem_1_helpers.py" />
         <option value="$PROJECT_DIR$/Problem_1.py" />
       </list>
     </option>
@@ -102,7 +120,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Problem_1.py" />
     <property name="restartRequiresConfirmation" value="true" />
   </component>
-  <component name="RunManager" selected="Python.Problem_1">
+  <component name="RunManager" selected="Python tests.Doctests in Problem_1">
     <configuration default="false" name="Problem_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -267,8 +285,8 @@
     </list>
     <recent_temporary>
       <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.Problem_1" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Doctests in Problem_1" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Doctests in Problem_1" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Problem_1" />
       </list>
     </recent_temporary>
   </component>
@@ -325,10 +343,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Problem_1_helpers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Problem_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1891892">
-          <caret line="39" column="7" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.033783782">
+          <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
           <folding />
         </state>
       </provider>
